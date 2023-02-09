@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+.active {
+  background-color: var(--vscode-list-activeSelectionBackground);
+  color: var(--vscode-list-activeSelectionForeground);
+}
